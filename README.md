@@ -1,4 +1,3 @@
-README — Repository Language Structure
 This repository is organized with separate branches for Portuguese and English content.
 How to navigate
 The main branch may contain materials, names, or references mixed between both languages. This is intentional, since main works as the central organizational point of the repository.
